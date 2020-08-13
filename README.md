@@ -1,3 +1,3 @@
 # yossy-yossy
-A very simple program that prints "A yossy yossy!" which is also my first C program.
+A very simple program that asks if you like yossy which is kinda my first C program.
 
