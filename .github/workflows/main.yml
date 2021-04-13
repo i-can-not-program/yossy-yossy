@@ -30,7 +30,6 @@ jobs:
         run: gcc yossy.c -o yossy
         
         #hi
-       - name: Hi
   uses: actions/upload-artifact@v2.2.3
   with:
     # Artifact name
